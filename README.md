@@ -1,6 +1,6 @@
 # Quickr
 
-Quickr let's you easily navigate your windows computer by text commands
+Quickr let's you easily navigate your windows computer by text commands<br>
 Open with CTRL + Q
  
 <p align='center'><img src='.github/screenshot.png' width='800'></p>
